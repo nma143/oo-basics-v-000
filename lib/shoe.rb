@@ -1,5 +1,5 @@
 # Make your shoe class here!
-class shoe
+class Shoe
   attr_accessor :color
   attr_reader :brand
 
@@ -8,5 +8,5 @@ class shoe
   end
 
 
-  
+
 end
